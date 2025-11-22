@@ -6,7 +6,9 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
+  color: blue
+  font: classic  # オプション: minimal, classic, rose, mr_robot, cyberpunk, native
+  font_size: L   # オプション: XS, S, M, L, XL
 
 # SEO
 marketing:
@@ -35,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Momoko Shiraishi'
 
 # Site footer
 footer:
@@ -58,3 +60,10 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Custom CSS
+extensions:
+  cms:
+    branch: main
+  academicons:
+    enable: true

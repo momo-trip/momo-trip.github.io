@@ -1,0 +1,48 @@
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<style>
+/* Google Fontsから読み込み */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+/* フォント設定 */
+body {
+  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+  font-size: 16px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+}
+
+h1 {
+  font-size: 2rem !important;
+}
+
+h2 {
+  font-size: 1.5rem !important;
+}
+
+h3 {
+  font-size: 1.2rem !important;
+}
+
+/* 水色のグラデーション背景 */
+.hbx-bg-gradient {
+  background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%) !important;
+}
+
+/* Professional Summary を Momoko Shiraishi に置き換え */
+.biography h2:first-of-type,
+[class*="biography"] h2:first-of-type,
+.hbx-bg-gradient h2:first-of-type {
+  font-size: 0 !important;
+}
+
+.biography h2:first-of-type::after,
+[class*="biography"] h2:first-of-type::after,
+.hbx-bg-gradient h2:first-of-type::after {
+  content: 'Momoko Shiraishi' !important;
+  font-size: 2.2rem !important;  /* ← 1.5rem から 2.5rem に変更 */
+  font-weight: 700 !important;   /* ← 太字を追加 */
+}
+</style>
