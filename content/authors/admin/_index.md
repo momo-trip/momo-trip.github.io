@@ -184,5 +184,5 @@ My research interest is at the intersection of prompt engineering and automation
 
 - **PhD in Computer Science** - The University of Tokyo (2022-present)
 - **MS in Electronical Engineering** - The University of Tokyo (2022)
-- **BS in Computer Science** - Sophia University (2019)
+- **BS in Foreign Studies** - Sophia University (2019)
 
