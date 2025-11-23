@@ -44,7 +44,7 @@ sections:
   - block: markdown #collection
     id: papers
     content:
-      title: 'Publications'
+      title: 'Recent publications'
       text: |-
         **SmartC2Rust: LLM-Assisted Automated C-to-Rust Translation**  
         *Momoko Shiraishi*, Takahiro Shinagawa, Yinzhi Cao  
