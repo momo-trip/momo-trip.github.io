@@ -46,12 +46,16 @@ sections:
     content:
       title: 'Recent publications'
       text: |-
+        **PILOT: LLM-Assisted Automated C-to-Rust Translation**  
+        *Momoko Shiraishi*, Takahiro Shinagawa, Yinzhi Cao  
+        *ICSE 2024* | [Paper](link) | [Code](https://github.com/momo-trip/smartC2Rust)
+        
         **SmartC2Rust: LLM-Assisted Automated C-to-Rust Translation**  
         *Momoko Shiraishi*, Takahiro Shinagawa, Yinzhi Cao  
-        *ICSE 2024* | [Paper](link) | [Code](link)
+        *ICSE 2024* | [Paper](link) | [Code](https://github.com/momo-trip/smartC2Rust)
         
         **Another Paper Title**  
-        *Momoko Shiraishi*, Co-authors  
+        *Momoko Shiraishi*, Takahiro Shinagawa 
         *Conference 2023* | [Paper](link)
     design:
       columns: '1'
