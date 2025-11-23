@@ -41,17 +41,29 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
+  - block: markdown #collection
     id: papers
     content:
-      title: Recent Publications
-      filters:
-        folders:
-          - publications
-        featured_only: false
+      title: 'Publications'
+      text: |-
+        **SmartC2Rust: LLM-Assisted Automated C-to-Rust Translation**  
+        *Momoko Shiraishi*, Takahiro Shinagawa, Yinzhi Cao  
+        *ICSE 2024* | [Paper](link) | [Code](link)
+        
+        **Another Paper Title**  
+        *Momoko Shiraishi*, Co-authors  
+        *Conference 2023* | [Paper](link)
     design:
-      view: article-grid
-      columns: 2
+      columns: '1'
+    # content:
+    #   title: Recent Publications
+    #   filters:
+    #     folders:
+    #       - publications
+    #     featured_only: false
+    # design:
+    #   view: article-grid
+    #   columns: 2
   # - block: collection
   #   content:
   #     title: Recent Publications
