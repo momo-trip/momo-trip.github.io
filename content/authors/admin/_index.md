@@ -185,3 +185,13 @@ My research focuses on leveraging large language models for software engineering
 - **MS in Electronical Engineering** - The University of Tokyo (2022)
 - **BS in Foreign Studies** - Sophia University (2019)
 
+
+# Publications
+
+- **SmartC2Rust: LLM-Assisted Automated C-to-Rust Translation**  
+  *Your Name*, Takahiro Shinagawa, Yinzhi Cao  
+  *ICSE 2024* | [Paper](link) | [Code](link)
+
+- **Another Paper Title**  
+  *Your Name*, Co-authors  
+  *Conference/Journal 2023* | [Paper](link)
