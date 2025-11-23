@@ -172,10 +172,9 @@ profiles:
 
 ---
 I am a PhD student at The University of Tokyo, mainly advised by Prof. Takahiro Shinagawa and Prof. Yinzhi Cao (Johns Hopkins University). 
-My research interest is at the intersection of prompt engineering and automation of coding tasks.
+My research focuses on leveraging large language models for software engineering tasks, particularly in context engineering and automated code translation.
 
 # Interests
-  - Large Language Models
   - Context Engineering
   - Agentic Scheme
   - C-to-Rust Translation
