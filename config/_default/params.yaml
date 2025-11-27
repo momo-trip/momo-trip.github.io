@@ -15,8 +15,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    org_name: 'The University of Tokyo'
+    description: 'Momoko Shiraishi - PhD student at The University of Tokyo researching software engineering with large language models, focusing on context engineering and automated code translation'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
