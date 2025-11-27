@@ -46,17 +46,17 @@ sections:
     content:
       title: 'Recent publications'
       text: |-
-        **PILOT: LLM-Assisted Automated C-to-Rust Translation**  
-        *Momoko Shiraishi*, Takahiro Shinagawa, Yinzhi Cao  
-        *ICSE 2024* | [Paper](link) | [Code](https://github.com/momo-trip/smartC2Rust)
+        **Effective Command-line Interface Fuzzing with Path-Aware Large Language Model Orchestration**  
+        *Momoko Shiraishi*, Yinzhi Cao, Takahiro Shinagawa  
+        *arXiv 2025* | [Paper](https://arxiv.org/abs/2511.20555)
         
-        **SmartC2Rust: LLM-Assisted Automated C-to-Rust Translation**  
-        *Momoko Shiraishi*, Takahiro Shinagawa, Yinzhi Cao  
-        *ICSE 2024* | [Paper](link) | [Code](https://github.com/momo-trip/smartC2Rust)
+        **SmartC2Rust: Iterative, Feedback-Driven C-to-Rust Translation via Large Language Models for Safety and Equivalence**  
+        *Momoko Shiraishi*, Yinzhi Cao, Takahiro Shinagawa  
+        *ICSE 2026* | [Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/217/SmartC2Rust-Iterative-Feedback-Driven-C-to-Rust-Translation-via-Large-Language-Mode)
         
-        **Another Paper Title**  
-        *Momoko Shiraishi*, Takahiro Shinagawa 
-        *Conference 2023* | [Paper](link)
+        **Hardware Authenticator Binding: A Secure Alternative to Passkeys**  
+        *Momoko Shiraishi*, Takahiro Shinagawa  
+        *COMPSAC 2025 | [Paper](https://ieeexplore.ieee.org/document/11126737)*
     design:
       columns: '1'
     # content:
