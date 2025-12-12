@@ -183,4 +183,4 @@ My research focuses on leveraging large language models for software engineering
 
 - **PhD in Computer Science** - The University of Tokyo (2022-present)
 - **MS in Electronical Engineering** - The University of Tokyo (2022)
-- **BS in Foreign Studies** - Sophia University (2019)
+- **BS in Foreign Studies** - Sophia University (2017)
