@@ -52,7 +52,7 @@ sections:
         
         **SmartC2Rust: Iterative, Feedback-Driven C-to-Rust Translation via Large Language Models for Safety and Equivalence**  
         *Momoko Shiraishi*, Yinzhi Cao, Takahiro Shinagawa  
-        *ICSE 2026* | [Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/217/SmartC2Rust-Iterative-Feedback-Driven-C-to-Rust-Translation-via-Large-Language-Mode)
+        *ICSE 2026* | [Paper](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/217/SmartC2Rust-Iterative-Feedback-Driven-C-to-Rust-Translation-via-Large-Language-Mode) | [Pre-print](https://arxiv.org/abs/2409.10506v3)
         
         **Hardware Authenticator Binding: A Secure Alternative to Passkeys**  
         *Momoko Shiraishi*, Takahiro Shinagawa  
