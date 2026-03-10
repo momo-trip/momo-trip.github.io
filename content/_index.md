@@ -48,7 +48,7 @@ sections:
       text: |-
         **Effective PILOT: Command-line Interface Fuzzing via Path-Guided, Iterative Large Language Model Prompting** 
         *Momoko Shiraishi*, Yinzhi Cao, Takahiro Shinagawa  
-        *S&P 2026* | [Paper](https://arxiv.org/abs/2511.20555)
+        *IEEE S&P 2026* | [Paper](https://arxiv.org/abs/2511.20555)
         
         **SmartC2Rust: Iterative, Feedback-Driven C-to-Rust Translation via Large Language Models for Safety and Equivalence**  
         *Momoko Shiraishi*, Yinzhi Cao, Takahiro Shinagawa  
